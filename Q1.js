@@ -27,6 +27,6 @@ const roomCleaner = (arr) => {
     return collect
 }
 
-let n = [2, 3, 5, 2, 2, 4, 1, 1, 'nn', 9, 'nn', 'br', '5', 6, '5'];
+// let n = [2, 3, 5, 2, 2, 4, 1, 1, 'nn', 9, 'nn', 'br', '5', 6, '5'];
 
-roomCleaner(n)
+// roomCleaner(n)
